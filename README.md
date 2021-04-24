@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolodina&theme=flag-india&show_icons=true&hide=contribs,stars&hide_title=true&count_private=true&hide_border=true)
 
-![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paolodina&layout=compact&theme=dark&hide_border=true&hide_title=true)
+![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paolodina&layout=compact&theme=flag-india&hide_border=true&hide_title=true)
