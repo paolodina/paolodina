@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **paolodina/paolodina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolodina&theme=flag-india&show_icons=true&hide=contribs,stars&hide_title=true&count_private=true&hide_border=true)
+
+![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paolodina&layout=compact&theme=dark&hide_border=true&hide_title=true)
