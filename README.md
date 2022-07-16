@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <hr />
 
 <p align="center">
-<img alt="Vite conf 2022" width="600" src="https://github.com/paolodina/paolodina/blob/main/vite-conf-svelte.png" />
+<a href="https://viteconf.org/" target="_blank"><img alt="Vite conf 2022" width="600" src="https://github.com/paolodina/paolodina/blob/main/vite-conf-svelte.png" /></a>
 </p>
