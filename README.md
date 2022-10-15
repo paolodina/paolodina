@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 ![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paolodina&layout=compact&theme=flag-india&hide_border=true&hide_title=true)
 -->
 
+<!--
 <hr />
 
 <p align="center">
 <a href="https://viteconf.org/" target="_blank"><img alt="Vite conf 2022" width="600" src="https://github.com/paolodina/paolodina/blob/main/vite-conf-svelte.png" /></a>
 </p>
+-->
