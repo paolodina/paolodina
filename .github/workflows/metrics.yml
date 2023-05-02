@@ -14,8 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          template: terminal
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.achievements.svg
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
+          filename: metrics.terminal.svg
+          
