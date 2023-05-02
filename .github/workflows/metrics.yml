@@ -14,7 +14,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          base: ""
           template: terminal
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.terminal.svg
-          
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Europe/Rome
