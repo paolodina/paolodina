@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 <a href="https://viteconf.org/" target="_blank"><img alt="Vite conf 2022" width="600" src="https://github.com/paolodina/paolodina/blob/main/vite-conf-svelte.png" /></a>
 </p>
 -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paolodina&show_icons=true&locale=en&layout=compact" alt="GitHib Paolo Dina" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paolodina&show_icons=true&locale=en" alt="GitHib Paolo Dina" /></p>
